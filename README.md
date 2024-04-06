@@ -17,7 +17,11 @@
 <a href="https://linkedin.com/in/ahmet-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmet-g" height="30" width="40" /></a>
 </p>
 
-![1650369852139](https://github.com/ahmettgg/ahmettgg/assets/148767652/315b7796-9868-4925-a907-31c98a929647)
+
+![aws-certified-cloud-practitioner](https://github.com/ahmettgg/ahmettgg/assets/148767652/9954fad0-e673-4027-8f4b-7fe780dc90d7)
+![aws-certified-solutions-architect-associate](https://github.com/ahmettgg/ahmettgg/assets/148767652/780833b6-1fae-47a9-aec5-45a0c89848fa)
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
